@@ -4,7 +4,7 @@ Project created using Maven and Java. The application support CUI in Spring.
 ## Download
 Use version control system [git](https://git-scm.com/) to clone this repository:
 ```
-git clone ...
+git clone git@github.com:JakubPrz/Book-Management-in-Library.git
 ```
 
 ## Database in MariaDB
